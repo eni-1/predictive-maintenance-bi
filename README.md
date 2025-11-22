@@ -9,6 +9,10 @@
 
 - Reporting: Power BI dashboard utilizing DAX measures to visualize risk levels and operational costs.
 
+<img width="2767" height="1600" alt="dash-1" src="https://github.com/user-attachments/assets/2c2394ab-88e0-45e1-bc7e-76b0a399adce" />
+
+<img width="2767" height="1600" alt="dash-2" src="https://github.com/user-attachments/assets/6307397e-167e-4077-9b3e-4bf467df72b0" />
+
 #
 
 AI4I 2020 Predictive Maintenance Dataset [Dataset]. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5HS5C.
